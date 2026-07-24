@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>염창 풀싸롱 초보 안내</title>
+  <rect width="64" height="64" rx="10" fill="hsl(124 44% 24%)"/>
+  <g transform="rotate(0 32 32)"><path d="M32 14 52 48H12Z" fill="none" stroke="hsl(124 24% 96%)" stroke-width="8" stroke-linejoin="round"/><path d="M32 30 41 46H23Z" fill="hsl(244 68% 58%)"/></g>
+</svg>
