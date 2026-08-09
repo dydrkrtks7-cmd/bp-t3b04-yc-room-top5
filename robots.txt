@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://yeomchang-fullsalon-note.hongdae-massage-review.xyz/sitemap.xml
+Sitemap: https://yeomchang-fullsalon-note.hongdae-massage-review.xyz/sitemap-pages.xml
